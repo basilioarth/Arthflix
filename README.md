@@ -1,3 +1,7 @@
+#  :movie_camera: Arthflix
+
+Implementação do projeto da semana de imersão react da Alura: repositório web de vídeos, organizados de acordo com as categorias criadas.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
